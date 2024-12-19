@@ -1,16 +1,6 @@
-# myapp
 
-A new Flutter project.
+# Diário da Alma
+Um aplicativo web elegante e responsivo para registrar seus pensamentos e sentimentos.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ # Descrição
+Diário da Alma é um espaço digital acolhedor, desenvolvido com Flutter, que permite salvar reflexões diárias e acessar facilmente o histórico das suas entradas. Com um design minimalista e tons sofisticados de roxo e amarelo, o aplicativo combina funcionalidade e beleza, ideal para quem busca praticidade no registro do dia a dia.
